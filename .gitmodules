@@ -1,0 +1,3 @@
+[submodule "Meetups"]
+	path = Meetups
+	url = git@github.com:adityasethi-v2/Meetups.git
